@@ -7,4 +7,4 @@ Here, I document my journey through various data analysis projects. I focus on t
 * SQL
 * Python
 * Tableau
-* EDA
+
