@@ -22,6 +22,13 @@ Here, I document my journey through various data analysis projects. I focus on t
 | 🏬 [Walmart Business Case Study](https://github.com/ananyajayaprakash13/Walmart-Business-case-study) | Python, Pandas, Matplotlib, Seaborn | Data Analysis & Visualization | Analyzing customer purchase behavior during Black Friday sales to improve business decisions.                   |
 | 🚲 [Yulu Business Case](https://github.com/ananyajayaprakash13/Yulu-Business-case) | Python, Pandas, Matplotlib, Seaborn | Data Analysis & Business Strategy | Analyzing demand for shared electric bikes in India and identifying market factors influencing rental behavior.   |
 
+## 📊 Tableau Projects
+
+| Project                                  | Description                                                             | Link                                                                                 |
+|------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| **Aerofit Treadmill Dashboard**          | Created a comprehensive dashboard analyzing the Aerofit Treadmill case. | [Aerofit---Tableau Repository](https://github.com/ananyajayaprakash13/Aerofit---tableau) |
+
+
 
 
 
