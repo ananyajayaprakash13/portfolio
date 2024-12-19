@@ -17,9 +17,11 @@ Here, I document my journey through various data analysis projects. I focus on t
 
 | Project Name         | Tools                                   | Area                      | Project Description                                                                                             |
 |----------------------|-----------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------------|
-| 🏬 [Walmart Case Study](https://github.com/yourusername/walmart-case-study) | Python, Pandas, Matplotlib, Seaborn | Data Analysis & Visualization | Analyzing customer purchase behavior during Black Friday sales to improve business decisions.                   |
-| 🏃‍♂️ [Aerofit Case Study](https://github.com/yourusername/aerofit-case-study) | Python, Pandas, Matplotlib, Seaborn | Customer Profiling & Analytics | Analyzing customer purchase behavior to improve product recommendations.                                         |
-| 🎬 [Netflix Case Study](https://github.com/yourusername/netflix-case-study) | Python, Pandas, Matplotlib, Seaborn | Data Analysis & Visualization | Analyzing Netflix show data to recommend content based on user behavior.                                          |
+| 🎬 [Netflix Case Study](https://github.com/ananyajayaprakash13/Netflix_case_study) | Python, Pandas, Matplotlib, Seaborn | Data Analysis & Visualization | Analyzing Netflix show data to recommend content based on user behavior.                                          |
+| 🏃‍♂️ [Aerofit Business Case Study](https://github.com/ananyajayaprakash13/Aerofit-Business-case-study) | Python, Pandas, Matplotlib, Seaborn | Customer Profiling & Analytics | Analyzing customer purchase behavior to improve product recommendations.                                         |
+| 🏬 [Walmart Business Case Study](https://github.com/ananyajayaprakash13/Walmart-Business-case-study) | Python, Pandas, Matplotlib, Seaborn | Data Analysis & Visualization | Analyzing customer purchase behavior during Black Friday sales to improve business decisions.                   |
+| 🚲 [Yulu Business Case](https://github.com/ananyajayaprakash13/Yulu-Business-case) | Python, Pandas, Matplotlib, Seaborn | Data Analysis & Business Strategy | Analyzing demand for shared electric bikes in India and identifying market factors influencing rental behavior.   |
+
 
 
 
