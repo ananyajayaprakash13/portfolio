@@ -43,7 +43,7 @@ Welcome to my data portfolio! Here, I document my journey through various data a
 
 | Project Title | Repository Link |
 |---------------|------------------|
-| Tata Data Visualisation Virtual Internship | [View Repo]([https://github.com/ananyajayaprakash13/Tata-Data-Visualisation-Forage](https://github.com/ananyajayaprakash13/Quantium-Data-Analytics-Virtual-Internship)) |
+| Tata Data Visualisation Virtual Internship | [View Repo]([https://github.com/ananyajayaprakash13/Tata-Data-Visualisation) |
 | Quantium Retail Analytics Simulation | [View Repo](https://github.com/ananyajayaprakash13/Quantium-Data-Analytics-Virtual-Internship) |
 | Deloitte Australia Data Analytics Simulation | [View Repo](https://github.com/ananyajayaprakash13/Deloitte-Data-Analytics-Forage) |
 
