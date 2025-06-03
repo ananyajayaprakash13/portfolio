@@ -15,7 +15,7 @@ Welcome to my data portfolio! Here, I document my journey through various data a
 
 | Project Title         | Tools Used         | Area               | Description                                                      | Repository Link                                     |
 |----------------------|--------------------|--------------------|------------------------------------------------------------------|----------------------------------------------------|
-| 🎯 Target Case Study  | BigQuery           | SQL, Data Analysis  | Exploring E-commerce Trends and Customer Behaviour. An exploratory study of Brazil's e-commerce market. | [View Repo][https://github.com/yourusername/target-case-study](https://github.com/ananyajayaprakash13/Target-case-study) |
+| 🎯 Target Case Study  | BigQuery           | SQL, Data Analysis  | Exploring E-commerce Trends and Customer Behaviour. An exploratory study of Brazil's e-commerce market. | [View Repo](https://github.com/ananyajayaprakash13/Target-case-study) |
 
 ---
 
@@ -23,10 +23,10 @@ Welcome to my data portfolio! Here, I document my journey through various data a
 
 | Project Title               | Tools Used                               | Area                          | Description                                                     | Repository Link                                    |
 |----------------------------|----------------------------------------|-------------------------------|-----------------------------------------------------------------|---------------------------------------------------|
-| 🎬 Netflix Case Study       | Python, Pandas, Matplotlib, Seaborn    | Data Analysis & Visualization | Analyzing Netflix show data to recommend content based on user behavior. | [View Repo](https://github.com/yourusername/netflix-case-study) |
-| 🏃‍♂️ Aerofit Business Case Study | Python, Pandas, Matplotlib, Seaborn    | Customer Profiling & Analytics | Analyzing customer purchase behavior to improve product recommendations. | [View Repo](https://github.com/yourusername/aerofit-business-case) |
-| 🏬 Walmart Business Case Study  | Python, Pandas, Matplotlib, Seaborn    | Data Analysis & Visualization | Analyzing customer purchase behavior during Black Friday sales to improve business decisions. | [View Repo](https://github.com/yourusername/walmart-case-study) |
-| 🚲 Yulu Business Case       | Python, Pandas, Matplotlib, Seaborn    | Data Analysis & Business Strategy | Analyzing demand for shared electric bikes in India and identifying market factors influencing rental behavior. | [View Repo](https://github.com/yourusername/yulu-business-case) |
+| 🎬 Netflix Case Study       | Python, Pandas, Matplotlib, Seaborn    | Data Analysis & Visualization | Analyzing Netflix show data to recommend content based on user behavior. | [View Repo](https://github.com/ananyajayaprakash13/Netflix_case_study) |
+| 🏃‍♂️ Aerofit Business Case Study | Python, Pandas, Matplotlib, Seaborn    | Customer Profiling & Analytics | Analyzing customer purchase behavior to improve product recommendations. | [View Repo](https://github.com/ananyajayaprakash13/Aerofit-Business-case-study) |
+| 🏬 Walmart Business Case Study  | Python, Pandas, Matplotlib, Seaborn    | Data Analysis & Visualization | Analyzing customer purchase behavior during Black Friday sales to improve business decisions. | [View Repo](https://github.com/ananyajayaprakash13/Walmart-Business-case-study) |
+| 🚲 Yulu Business Case       | Python, Pandas, Matplotlib, Seaborn    | Data Analysis & Business Strategy | Analyzing demand for shared electric bikes in India and identifying market factors influencing rental behavior. | [View Repo](https://github.com/ananyajayaprakash13/Yulu-Business-case) |
 
 ---
 
