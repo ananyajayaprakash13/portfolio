@@ -15,7 +15,7 @@ Welcome to my data portfolio! Here, I document my journey through various data a
 
 | Project Title         | Tools Used         | Area               | Description                                                      | Repository Link                                     |
 |----------------------|--------------------|--------------------|------------------------------------------------------------------|----------------------------------------------------|
-| 🎯 Target Case Study  | BigQuery           | SQL, Data Analysis  | Exploring E-commerce Trends and Customer Behaviour. An exploratory study of Brazil's e-commerce market. | [View Repo]([https://github.com/yourusername/target-case-study](https://github.com/ananyajayaprakash13/Target-case-study)) |
+| 🎯 Target Case Study  | BigQuery           | SQL, Data Analysis  | Exploring E-commerce Trends and Customer Behaviour. An exploratory study of Brazil's e-commerce market. | [View Repo][https://github.com/yourusername/target-case-study](https://github.com/ananyajayaprakash13/Target-case-study) |
 
 ---
 
